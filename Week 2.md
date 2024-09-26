@@ -13,3 +13,8 @@
 
 ## Friday Quiz Submission
 <img width="1264" alt="Quiz Submission - Week 2 - Friday" src="https://github.com/user-attachments/assets/b06848bf-8cf7-46b2-8796-fec8ac25a007">
+
+
+
+## In-class experiment - the Turing test
+![IMG_0980](https://github.com/user-attachments/assets/d8a8b741-5437-4d12-81cc-32b4a4b10c91)
