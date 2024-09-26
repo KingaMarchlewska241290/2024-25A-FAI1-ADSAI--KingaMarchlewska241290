@@ -13,3 +13,30 @@
 
 ## Friday Quiz Submission
 <img width="1267" alt="Quiz Submission - Week 1 - Friday" src="https://github.com/user-attachments/assets/5197e222-da0d-4e86-be36-2a1e09fb9a13">
+
+
+
+## "Milestone in AI" assignment
+[Milestone in AI - ELIZA.pptx](https://github.com/user-attachments/files/17154038/Milestone.in.AI.-.ELIZA.pptx)
+
+
+
+## "Milestone in AI" presentation feedback from Ties Rokx (244179):
+[Peer review Kinga Marchlewska week 1.pdf](https://github.com/user-attachments/files/17154090/Peer.review.Kinga.Marchlewska.week.1.pdf)
+
+
+
+## "Milestone in AI" presentation feedback from Lars Peggeman (241863):
+[PeerReviewFormforStudentPresentations_Kinga.pdf](https://github.com/user-attachments/files/17154101/PeerReviewFormforStudentPresentations_Kinga.pdf)
+
+
+
+## "Milestone in AI" presentation feedback from Ralph de Vries (242999):
+[Kinga feedback from Ralph presentation week 1 friday.pdf](https://github.com/user-attachments/files/17154109/Kinga.feedback.from.Ralph.presentation.week.1.friday.pdf)
+
+
+
+## "Milestone in AI" presentation feedback from Xavier Pijnenburg (243857):
+[PeerReviewFormforStudentPresentations_kingam.pdf](https://github.com/user-attachments/files/17154240/PeerReviewFormforStudentPresentations_kingam.pdf)
+
+
