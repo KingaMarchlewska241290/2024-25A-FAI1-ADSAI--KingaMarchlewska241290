@@ -21,3 +21,9 @@
 ## Advanced Visualization Techniques
 <img width="967" alt="Advanced Visualization Techniques" src="https://github.com/user-attachments/assets/1172441a-470b-47e1-9bde-ef8ca248163f">
 
+## Advanced Visualization in Power BI
+<img width="959" alt="Advanced visualization in Power BI" src="https://github.com/user-attachments/assets/14f9c929-71ff-408f-b708-7ac77ecb88c9">
+
+## Power BI most advanced features
+<img width="958" alt="Power BI most advanced features" src="https://github.com/user-attachments/assets/f3ae3887-2218-4d31-8a7e-7e91c684c763">
+
