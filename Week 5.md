@@ -27,3 +27,8 @@
 ## Power BI most advanced features
 <img width="958" alt="Power BI most advanced features" src="https://github.com/user-attachments/assets/f3ae3887-2218-4d31-8a7e-7e91c684c763">
 
+
+## Algebra 2 - Khan Academy
+<img width="1416" alt="Math - Algebra 2" src="https://github.com/user-attachments/assets/c818f0fe-b090-4732-b73c-88111d5443fd">
+
+
