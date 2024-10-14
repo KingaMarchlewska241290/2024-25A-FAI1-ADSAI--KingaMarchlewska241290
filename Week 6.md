@@ -8,3 +8,6 @@
 ## The Normal Distribution
 <img width="964" alt="The Normal Distribution" src="https://github.com/user-attachments/assets/811cd07b-9458-4421-b987-424581994061">
 
+## Measures of Central Tendency and Measures of Dispersion - exercises
+[Measures of Central Tendency and Measures of Dispersion - exercises.docx](https://github.com/user-attachments/files/17368419/Measures.of.Central.Tendency.and.Measures.of.Dispersion.-.exercises.docx)
+
