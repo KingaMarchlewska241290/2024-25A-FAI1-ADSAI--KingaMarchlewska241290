@@ -11,3 +11,16 @@
 ## Measures of Central Tendency and Measures of Dispersion - exercises
 [Measures of Central Tendency and Measures of Dispersion - exercises.docx](https://github.com/user-attachments/files/17368419/Measures.of.Central.Tendency.and.Measures.of.Dispersion.-.exercises.docx)
 
+## Correlation
+<img width="960" alt="Correlation" src="https://github.com/user-attachments/assets/fb43e8d5-9262-4753-8b88-639d5fe29ea6">
+
+## Correlation Datalab Preparation - Power BI
+
+
+## Introduction to Algorithms - Part 1
+<img width="966" alt="Introduction to Algorithms - Part 1" src="https://github.com/user-attachments/assets/745ad171-70c0-444e-a704-0651a12822a5">
+
+
+## Introduction to Algorithms - Part 2
+<img width="966" alt="Introduction to Algorithms - Part 2" src="https://github.com/user-attachments/assets/8d5df483-2863-4771-937d-653b1a5f681e">
+
