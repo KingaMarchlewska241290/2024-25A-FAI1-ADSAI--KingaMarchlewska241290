@@ -32,3 +32,5 @@
 <img width="1416" alt="Math - Algebra 2" src="https://github.com/user-attachments/assets/c818f0fe-b090-4732-b73c-88111d5443fd">
 
 
+## Feedback from a mentor: Irene van Blerck
+![IMG_1212](https://github.com/user-attachments/assets/6311e4e0-567b-49f1-bc20-25b814f16dd8)
