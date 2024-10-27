@@ -7,6 +7,10 @@
 <img width="1272" alt="Quiz Submission - Week 2 - Tuesday" src="https://github.com/user-attachments/assets/8ec3926c-81b8-4ef3-b5c8-34aed5d3acf9">
 
 
+## Statement of Accomplishment - Data Basics - "Introduction to Data" course on Data Camp
+![Statement of Accomplishment - Data Basics](https://github.com/user-attachments/assets/68f1ccf3-bab3-4f82-8683-a3744ebc7533)
+
+
 ## Wednesday Quiz Submission
 <img width="1271" alt="Quiz Submission - Week 2 - Wednesday" src="https://github.com/user-attachments/assets/c2162b19-f45e-40a6-9419-6feb0eb5b64a">
 
