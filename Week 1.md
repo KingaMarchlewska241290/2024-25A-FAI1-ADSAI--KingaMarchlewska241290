@@ -15,6 +15,9 @@
 <img width="1267" alt="Quiz Submission - Week 1 - Friday" src="https://github.com/user-attachments/assets/5197e222-da0d-4e86-be36-2a1e09fb9a13">
 
 
+## Statement of Accomplishment - "GitHub Concepts" on Data Camp
+![Statement of Accomplishment - GitHub Concepts](https://github.com/user-attachments/assets/71c97721-2dcd-43c1-87a0-c63aa4d223ee)
+
 
 ## Python Notebook - Variables
 <img width="1059" alt="Python - Variables" src="https://github.com/user-attachments/assets/e20d0856-0137-415f-9613-9cccdc936baf">
