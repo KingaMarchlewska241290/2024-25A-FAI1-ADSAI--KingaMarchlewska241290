@@ -14,6 +14,19 @@
 <img width="1374" alt="Quiz SUbmission - Week 3 - Wednesday" src="https://github.com/user-attachments/assets/8c74bb7e-670d-4b3c-9bd9-f15f501c9e72">
 
 
+## Python Notebook - Strings - 1
+<img width="1385" alt="Python Notebook - Strings - 1" src="https://github.com/user-attachments/assets/27b4ae2a-1d48-4ee0-88df-6f848646d47a">
+
+
+## Python Notebook - Strings - 2
+<img width="1309" alt="Python Notebook - Strings - 2" src="https://github.com/user-attachments/assets/fbd878bc-2b55-47ec-ab04-4e5922e9ab38">
+
+
+## Python Notebook - Lists
+<img width="1053" alt="Python Notebook - Lists" src="https://github.com/user-attachments/assets/cfd3bb64-5b6c-4f57-9d1b-95acd65b4e53">
+
+
+
 ## Solving Python problems on Coding Bat - String-1
 <img width="1433" alt="CodingBat problems - String-1" src="https://github.com/user-attachments/assets/f0e32b7a-a4b8-48b1-8ecc-8154b2d00a30">
 
