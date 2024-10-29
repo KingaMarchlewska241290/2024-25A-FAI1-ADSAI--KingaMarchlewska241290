@@ -11,6 +11,11 @@
 ![Statement of Accomplishment - Data Basics](https://github.com/user-attachments/assets/68f1ccf3-bab3-4f82-8683-a3744ebc7533)
 
 
+## Statement of Accomplishment - Working with and Analyzing Data - "Introduction to Data Literacy" course on Data Camp
+![Statement of Accomplishment - Introduction to Data Literacy](https://github.com/user-attachments/assets/86e5362d-c630-4be7-a04e-da7e3e99346f)
+
+
+
 ## Wednesday Quiz Submission
 <img width="1271" alt="Quiz Submission - Week 2 - Wednesday" src="https://github.com/user-attachments/assets/c2162b19-f45e-40a6-9419-6feb0eb5b64a">
 
