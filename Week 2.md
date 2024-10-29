@@ -37,6 +37,13 @@
 ## Friday Quiz Submission
 <img width="1264" alt="Quiz Submission - Week 2 - Friday" src="https://github.com/user-attachments/assets/b06848bf-8cf7-46b2-8796-fec8ac25a007">
 
+## Course on LinkedIn Learning - "Using Feedback to Drive Performance"
+<img width="612" alt="Using Feedback to Drive Performance - LinkedIn Learning" src="https://github.com/user-attachments/assets/1b62f394-5215-4e0d-a874-292153de44c5">
+
+
+
+
+
 
 
 ## In-class experiment - the Turing test
