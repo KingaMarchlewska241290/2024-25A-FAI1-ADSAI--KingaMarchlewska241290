@@ -34,6 +34,11 @@
 <img width="1384" alt="Python Notebook - Loops - 3" src="https://github.com/user-attachments/assets/6e28272d-ec87-4ab4-917d-7b1b9af9f0a0">
 
 
+## Solving Python problems on Coding Bat - Warmup-2
+<img width="1434" alt="CodingBat problems - Warmup-2" src="https://github.com/user-attachments/assets/db3d802f-6539-416e-9573-a7aab319c80a">
+
+
+
 ## Friday Quiz Submission
 <img width="1264" alt="Quiz Submission - Week 2 - Friday" src="https://github.com/user-attachments/assets/b06848bf-8cf7-46b2-8796-fec8ac25a007">
 
