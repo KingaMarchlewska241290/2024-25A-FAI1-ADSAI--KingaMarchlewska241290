@@ -24,3 +24,14 @@
 ## Introduction to Algorithms - Part 2
 <img width="966" alt="Introduction to Algorithms - Part 2" src="https://github.com/user-attachments/assets/8d5df483-2863-4771-937d-653b1a5f681e">
 
+
+## Solving Python problems on Coding Bat - Logic-1
+<img width="1434" alt="CodingBat problems - Logic-1" src="https://github.com/user-attachments/assets/a73db1fd-7022-4f3d-8dae-9f24f8cb808a">
+
+
+
+## Solving Python problems on Coding Bat - Logic-2
+<img width="1433" alt="CodingBat problems - Logic-2" src="https://github.com/user-attachments/assets/58428459-60b9-4047-8f69-a91c3fc7729d">
+
+
+
