@@ -15,3 +15,15 @@
 
 ## Attending the SDG Kick-Off Lecture:
 ![IMG_1252](https://github.com/user-attachments/assets/b4b254a2-bb57-4a27-8ee7-a99bfbbef9ba)
+
+
+
+## Solving Python problems on Coding Bat - String-2
+<img width="1429" alt="CodingBat problems - String-2" src="https://github.com/user-attachments/assets/834e091b-77cc-4ba6-ba87-d060fb342df9">
+
+
+## Solving Python problems on Coding Bat - List-2
+<img width="1434" alt="CodingBat problems - List-2" src="https://github.com/user-attachments/assets/92b0d7f8-edee-4e5c-b5ff-25f4ff1a929a">
+
+
+
