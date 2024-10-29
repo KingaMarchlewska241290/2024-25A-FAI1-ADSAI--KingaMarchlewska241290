@@ -17,6 +17,29 @@
 ![IMG_1252](https://github.com/user-attachments/assets/b4b254a2-bb57-4a27-8ee7-a99bfbbef9ba)
 
 
+## Python Notebook - Dictionaries - 1
+<img width="1380" alt="Python Notebook - Dictionaries - 1" src="https://github.com/user-attachments/assets/7967c9fc-32a0-48cd-8b9a-acb8ec04b88a">
+
+
+## Python Notebook - Dictionaries - 2
+<img width="1315" alt="Pyton Notebook - Dictionaries - 2" src="https://github.com/user-attachments/assets/430c6fc3-8941-4d9f-a447-5ac60e42d76f">
+
+
+## Python Notebook - Dictionaries - 3
+<img width="1380" alt="Python Notebook - Dictionaries - 3" src="https://github.com/user-attachments/assets/0e7e9226-406c-46ed-94cb-8efda471ae38">
+
+
+## Python Notebook - Dictionaries - 4
+<img width="1308" alt="Python Notebook - Dictionaries - 4" src="https://github.com/user-attachments/assets/96ca8fe1-220c-43d9-ba22-a1b23381bba9">
+
+
+## Python Notebook - Tuples - 1
+<img width="1440" alt="Python Notebook - Tuples - 1" src="https://github.com/user-attachments/assets/b428ef7f-9cfb-41e6-bf50-37f02e8e9c8f">
+
+
+## Python Notebook - Tuples - 2
+<img width="1390" alt="Python Notebook - Tuples - 2" src="https://github.com/user-attachments/assets/68153675-bd34-4a13-88e6-49efccf2ce71">
+
 
 ## Solving Python problems on Coding Bat - String-2
 <img width="1429" alt="CodingBat problems - String-2" src="https://github.com/user-attachments/assets/834e091b-77cc-4ba6-ba87-d060fb342df9">
