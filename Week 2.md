@@ -2,6 +2,9 @@
 ## Monday Quiz Submission
 <img width="1270" alt="Quiz Submission - Week 2 - Monday" src="https://github.com/user-attachments/assets/01498c78-31b6-4348-96e5-cdc742a8974d">
 
+## Math Quiz Submission - Algebra 
+<img width="1362" alt="Quiz Submission - Algebra 1" src="https://github.com/user-attachments/assets/5492c08b-7289-4be3-8b3b-23c8023d36e7">
+
 
 ## Tuesday Quiz Submission
 <img width="1272" alt="Quiz Submission - Week 2 - Tuesday" src="https://github.com/user-attachments/assets/8ec3926c-81b8-4ef3-b5c8-34aed5d3acf9">
