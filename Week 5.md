@@ -32,5 +32,14 @@
 <img width="1416" alt="Math - Algebra 2" src="https://github.com/user-attachments/assets/c818f0fe-b090-4732-b73c-88111d5443fd">
 
 
+## Python Notebook - Files
+<img width="1386" alt="Python Notebook - Files" src="https://github.com/user-attachments/assets/abd4c2e5-294a-4af7-9902-d164d7a3d196">
+
+
+## Python Notebook - Data Analysis
+<img width="1120" alt="Python Notebook - Data Analysis" src="https://github.com/user-attachments/assets/2b86aa7c-cca8-4e6b-a583-414e37f6625a">
+
+
+
 ## Feedback from a mentor: Irene van Blerck
 ![IMG_1212](https://github.com/user-attachments/assets/6311e4e0-567b-49f1-bc20-25b814f16dd8)
