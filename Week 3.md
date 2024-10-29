@@ -14,6 +14,12 @@
 <img width="1374" alt="Quiz SUbmission - Week 3 - Wednesday" src="https://github.com/user-attachments/assets/8c74bb7e-670d-4b3c-9bd9-f15f501c9e72">
 
 
+## Solving Python problems on Coding Bat - String-1
+<img width="1433" alt="CodingBat problems - String-1" src="https://github.com/user-attachments/assets/f0e32b7a-a4b8-48b1-8ecc-8154b2d00a30">
+
+## Solving Python problems on Coding Bat - List-1
+<img width="1431" alt="CodingBat problems - List-1" src="https://github.com/user-attachments/assets/db8b059c-cb7b-4386-9ad7-daf8569787e5">
+
 
 
 ### "AI in Science Fiction" project - My presentation in PDF:
