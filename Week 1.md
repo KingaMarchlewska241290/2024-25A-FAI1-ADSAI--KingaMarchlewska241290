@@ -29,6 +29,10 @@
 <img width="1130" alt="Python - Conditional execution 2" src="https://github.com/user-attachments/assets/79baf6ab-197a-45dd-a3ed-41ebcc788b8f">
 
 
+## Python problems on Coding Bat - "Warmup-1":
+<img width="1434" alt="CodingBat problems - Warmup-1" src="https://github.com/user-attachments/assets/8097e413-83ca-44f9-8446-6fd2bd899880">
+
+
 
 ## "Milestone in AI" assignment
 [Milestone in AI - ELIZA.pptx](https://github.com/user-attachments/files/17154038/Milestone.in.AI.-.ELIZA.pptx)
