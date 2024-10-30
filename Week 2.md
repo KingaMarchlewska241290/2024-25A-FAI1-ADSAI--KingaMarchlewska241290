@@ -5,6 +5,18 @@
 ## Math Quiz Submission - Algebra 
 <img width="1362" alt="Quiz Submission - Algebra 1" src="https://github.com/user-attachments/assets/5492c08b-7289-4be3-8b3b-23c8023d36e7">
 
+## Introduction to Creating Flowcharts - video
+<img width="851" alt="Introduction to Creating Flowcharts - video" src="https://github.com/user-attachments/assets/674a5f17-b95f-4a6a-ad23-6eda30063c51">
+
+## "Before Siri and Alexa, there was ELIZA" - video
+<img width="971" alt="Before Siri and Alexa, there was ELIZA - video" src="https://github.com/user-attachments/assets/a3598f57-8d9c-4c4a-93d5-b0c3b8dd5b26">
+
+## Chatbots and virtual agents - video
+<img width="1013" alt="Chatbots and virtual agents - video" src="https://github.com/user-attachments/assets/0a14e48e-36d3-4260-9d64-fc312fc3a807">
+
+## "IBM Research scientist Dr. Murray Campbell on Deep Blue" - video
+<img width="964" alt="IBM Research scientist Dr  Murray Campbell on Deep Blue - video" src="https://github.com/user-attachments/assets/cf1b1b62-9719-4732-8fed-a128ae6a08e7">
+
 
 ## Tuesday Quiz Submission
 <img width="1272" alt="Quiz Submission - Week 2 - Tuesday" src="https://github.com/user-attachments/assets/8ec3926c-81b8-4ef3-b5c8-34aed5d3acf9">
@@ -52,6 +64,8 @@
 ## "Undergraduate Students Unwittingly Subjected to World’s Worst Research Presentation" video
 <img width="965" alt="Undergraduate Students Unwittingly Subjected to World’s Worst Research Presentation - video" src="https://github.com/user-attachments/assets/8ace308d-e295-44ed-beed-cb88ceb2bd60">
 
+## "Run, hide, or say thank you: when faced with feedback, what do you do?" - video
+<img width="969" alt="Run, hide, or say thank you- when faced with feedback, what do you do? - video" src="https://github.com/user-attachments/assets/389220d5-0697-4f9c-842b-d7e401d3a5b0">
 
 
 ## In-class experiment - the Turing test
