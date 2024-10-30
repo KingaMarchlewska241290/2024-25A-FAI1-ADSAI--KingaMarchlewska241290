@@ -2,13 +2,26 @@
 ## Monday Quiz submission:
 <img width="1266" alt="Quiz - Week 1 - Monday" src="https://github.com/user-attachments/assets/c14a2290-7b83-461e-b8a9-fd2dadd6d15a">
 
+## "Understanding Artificial Intelligence and Its Future" - video
+<img width="964" alt="Understanding Artificial Intelligence and Its Future  - video" src="https://github.com/user-attachments/assets/e6f4c606-1fea-47eb-bc3c-be6c83e8b1d1">
+
 
 ## Tuesday Quiz submission:
 <img width="1269" alt="Quiz Submission - Week 1 - Tuesday" src="https://github.com/user-attachments/assets/e0a8bd62-2c76-42ea-b93f-4175d99fb260">
 
+## "Roles in Data Science Teams" - video
+<img width="964" alt="Roles in Data Science Teams - video" src="https://github.com/user-attachments/assets/bc181192-a7f5-4af5-9039-b401d88908e7">
+
+
 
 ## Wednesday Quiz SUbmission
 <img width="1267" alt="Quiz Submission - Week 1 - Wednesday" src="https://github.com/user-attachments/assets/590e8df2-18b3-43e1-a273-78652a221429">
+
+## "The History of Artificial Intelligence" - video
+<img width="964" alt="The History of Artificial Intelligence - video" src="https://github.com/user-attachments/assets/08f8490b-0332-4b5f-8ae2-90593be4c21e">
+
+## "Turing Test: Can Machines Think?" - video
+<img width="962" alt="Turing Test - Can Machines Think? - video" src="https://github.com/user-attachments/assets/4b0b7525-456b-42e8-aa71-94f055b49685">
 
 
 ## Friday Quiz Submission
