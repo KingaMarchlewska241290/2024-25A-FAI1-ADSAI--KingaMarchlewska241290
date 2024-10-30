@@ -3,6 +3,13 @@
 <img width="1424" alt="Quiz Submission - Week 3 - Monday" src="https://github.com/user-attachments/assets/7684e307-e12d-4d26-b8af-66c5310f6c80">
 
 
+## Pathfinding Tutorial - video
+<img width="977" alt="Pathfinding Tutorial - video" src="https://github.com/user-attachments/assets/838563f1-3f9d-407f-b51f-56085b8927c0">
+
+
+## AlphaFold - video
+<img width="973" alt="AlphaFold - video" src="https://github.com/user-attachments/assets/296a90bb-5d13-45fa-b4ba-a7e6c9172955">
+
 
 
 ## Tuesday Quiz Submission
@@ -12,6 +19,15 @@
 
 ## Wednesday Quiz Submission
 <img width="1374" alt="Quiz SUbmission - Week 3 - Wednesday" src="https://github.com/user-attachments/assets/8c74bb7e-670d-4b3c-9bd9-f15f501c9e72">
+
+
+## "The era of blind faith in big data must end" - video
+<img width="978" alt="The era of blind faith in big data must end - video" src="https://github.com/user-attachments/assets/0f722f67-5b49-45ed-84ae-fda97e8e93ca">
+
+
+## "OpenAI GPT-3 - Good At Almost Everything!" - video
+<img width="969" alt="OpenAI GPT-3 - Good At Almost Everything! - video" src="https://github.com/user-attachments/assets/1848c16d-23d3-49ba-99ee-d0e8368bc5b4">
+
 
 
 ## Python Notebook - Strings - 1
