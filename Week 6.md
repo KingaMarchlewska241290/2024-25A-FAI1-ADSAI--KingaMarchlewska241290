@@ -34,4 +34,8 @@
 <img width="1433" alt="CodingBat problems - Logic-2" src="https://github.com/user-attachments/assets/58428459-60b9-4047-8f69-a91c3fc7729d">
 
 
+## Final Math Exam
+<img width="1426" alt="Final Math Exam" src="https://github.com/user-attachments/assets/8cb0075e-52ab-4527-9103-6ce26eb2bcb7">
+
+
 
