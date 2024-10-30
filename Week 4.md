@@ -12,9 +12,17 @@
 ![IMG_1252](https://github.com/user-attachments/assets/fc9ef3f9-e382-4f9f-9279-440687aa9485)
 
 
-
 ## Attending the SDG Kick-Off Lecture:
 ![IMG_1252](https://github.com/user-attachments/assets/b4b254a2-bb57-4a27-8ee7-a99bfbbef9ba)
+
+
+## How to connect variou data sources - video
+<img width="974" alt="How to conncet various data sources - video" src="https://github.com/user-attachments/assets/3f76d12f-bce5-4596-8f62-2953be8f520a">
+
+
+## Data transformation - video
+<img width="967" alt="Data transformation - video" src="https://github.com/user-attachments/assets/cd18187c-836c-4e05-898f-d83fdb7c020f">
+
 
 
 ## Python Notebook - Dictionaries - 1
