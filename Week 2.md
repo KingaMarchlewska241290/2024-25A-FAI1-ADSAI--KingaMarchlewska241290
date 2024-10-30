@@ -10,6 +10,10 @@
 <img width="1272" alt="Quiz Submission - Week 2 - Tuesday" src="https://github.com/user-attachments/assets/8ec3926c-81b8-4ef3-b5c8-34aed5d3acf9">
 
 
+## "The Turing test: Can a computer pass for a human?" - video
+<img width="973" alt="The Turing test- Can a computer pass for a human? - video" src="https://github.com/user-attachments/assets/f599b1cc-185b-4ab2-9eae-1fedd85d67ee">
+
+
 ## Statement of Accomplishment - Data Basics - "Introduction to Data" course on Data Camp
 ![Statement of Accomplishment - Data Basics](https://github.com/user-attachments/assets/68f1ccf3-bab3-4f82-8683-a3744ebc7533)
 
@@ -45,9 +49,8 @@
 ## Course on LinkedIn Learning - "Using Feedback to Drive Performance"
 <img width="612" alt="Using Feedback to Drive Performance - LinkedIn Learning" src="https://github.com/user-attachments/assets/1b62f394-5215-4e0d-a874-292153de44c5">
 
-
-
-
+## "Undergraduate Students Unwittingly Subjected to World’s Worst Research Presentation" video
+<img width="965" alt="Undergraduate Students Unwittingly Subjected to World’s Worst Research Presentation - video" src="https://github.com/user-attachments/assets/8ace308d-e295-44ed-beed-cb88ceb2bd60">
 
 
 
