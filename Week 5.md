@@ -17,6 +17,14 @@
 <img width="971" alt="Data Visualization Part 2 - video" src="https://github.com/user-attachments/assets/c926a4a0-2f7f-452f-8f50-6f6aeb8b6d45">
 
 
+## Learning Data Science - LinkedIn Learning
+<img width="619" alt="Learning Data Science - LinkedIn Learning" src="https://github.com/user-attachments/assets/4b07730c-b095-486c-a59a-cb0b1be239d1">
+
+
+## Enhance Power BI report designs for the user experience - Microsoft course
+<img width="1440" alt="Enhance Power BI report designs for the user experience - Microsoft course" src="https://github.com/user-attachments/assets/4bbf0481-769f-452d-a840-1fbba8b19501">
+
+
 
 ## Advanced Visualization Techniques
 <img width="967" alt="Advanced Visualization Techniques" src="https://github.com/user-attachments/assets/1172441a-470b-47e1-9bde-ef8ca248163f">
