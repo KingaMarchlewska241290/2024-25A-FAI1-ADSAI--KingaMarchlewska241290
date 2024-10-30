@@ -38,6 +38,13 @@
 ## Wednesday Quiz Submission
 <img width="1271" alt="Quiz Submission - Week 2 - Wednesday" src="https://github.com/user-attachments/assets/c2162b19-f45e-40a6-9419-6feb0eb5b64a">
 
+## "What is Machine Learning?" - video
+<img width="969" alt="What is Machine Learning? - video" src="https://github.com/user-attachments/assets/414f575f-b815-458f-9c50-6c0667317116">
+
+## "Symbolic AI: Crash Course AI #10" - video
+<img width="968" alt="Symbolic AI- Crash Course AI #10 - video" src="https://github.com/user-attachments/assets/49c16c8e-e388-4e76-a080-c397d2a2b71c">
+
+
 
 ## Python Notebook - Functions
 <img width="1378" alt="Python Notebook - Functions - 1" src="https://github.com/user-attachments/assets/e85638cc-1bed-406f-a964-8672ff84acdc">
