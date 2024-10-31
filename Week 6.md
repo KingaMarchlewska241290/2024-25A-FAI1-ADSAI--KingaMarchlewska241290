@@ -38,4 +38,7 @@
 <img width="1426" alt="Final Math Exam" src="https://github.com/user-attachments/assets/8cb0075e-52ab-4527-9103-6ce26eb2bcb7">
 
 
+## Ana's Feedback
+<img width="378" alt="Ana's feedback" src="https://github.com/user-attachments/assets/d05555cb-eb06-421e-b065-08404e8d5528">
+
 
