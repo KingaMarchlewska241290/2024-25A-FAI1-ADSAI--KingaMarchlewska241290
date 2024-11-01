@@ -5,18 +5,20 @@
 
 
 ## CRISP-DM Template document (PDF format)
+[CRISP_DM_Template_for_SDG_Dashboard.pdf](https://github.com/user-attachments/files/17595087/CRISP_DM_Template_for_SDG_Dashboard.pdf)
+
 
 
 ## Power BI Dashboard
 
 
-## Python Notebooks (if any)
-
 
 ## Work Log
 
 
+
 ## Learning Log
+
 
 
 ## Self-Assesment
