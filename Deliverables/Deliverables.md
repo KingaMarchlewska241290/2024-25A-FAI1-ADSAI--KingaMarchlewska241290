@@ -5,7 +5,11 @@
 
 
 ## CRISP-DM Template document (PDF format)
-[CRISP_DM_Template_for_SDG_Dashboard.pdf](https://github.com/user-attachments/files/17595087/CRISP_DM_Template_for_SDG_Dashboard.pdf)
+[CRISP_DM_Template_for_SDG_Dashboard_KingaMarchlewska_241290.pdf](https://github.com/user-attachments/files/17599635/CRISP_DM_Template_for_SDG_Dashboard_KingaMarchlewska_241290.pdf)
+
+
+## CRISP-DM Template document (Word document)
+[CRISP_DM_Template_for_SDG_Dashboard_KingaMarchlewska_241290.docx](https://github.com/user-attachments/files/17599636/CRISP_DM_Template_for_SDG_Dashboard_KingaMarchlewska_241290.docx)
 
 
 
