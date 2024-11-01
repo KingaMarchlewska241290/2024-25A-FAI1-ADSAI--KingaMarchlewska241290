@@ -18,6 +18,7 @@
 
 
 ## Work Log
+[Worklog Y1A ADSAI 2024-2025_KingaMarchlewska241290.xlsx](https://github.com/user-attachments/files/17599974/Worklog.Y1A.ADSAI.2024-2025_KingaMarchlewska241290.xlsx)
 
 
 
@@ -26,4 +27,5 @@
 
 
 ## Self-Assesment
+[Self Assessment Rubric Y1A ADSAI 2024-2025_KingaMarchlewska241290.xlsx](https://github.com/user-attachments/files/17599977/Self.Assessment.Rubric.Y1A.ADSAI.2024-2025_KingaMarchlewska241290.xlsx)
 
