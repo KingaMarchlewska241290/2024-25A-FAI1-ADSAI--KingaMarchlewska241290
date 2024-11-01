@@ -24,6 +24,7 @@
 
 
 ## Learning Log
+[Learning Log Y1A ADSAI 2024-2025_KingaMarchlewska_241290.pptx](https://github.com/user-attachments/files/17600002/Learning.Log.Y1A.ADSAI.2024-2025_KingaMarchlewska_241290.pptx)
 
 
 
