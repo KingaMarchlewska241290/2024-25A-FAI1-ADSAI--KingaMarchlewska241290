@@ -13,8 +13,12 @@
 
 
 
-## Power BI Dashboard
+## Power BI Dashboard (PDF)
 [SDGIndicatorsDashboard_KingaMarchlewska241290.pdf](https://github.com/user-attachments/files/17599988/SDGIndicatorsDashboard_KingaMarchlewska241290.pdf)
+
+
+## Power BI Dashboard 
+https://edubuas-my.sharepoint.com/:u:/g/personal/241290_buas_nl/EQOc6wcAwvlPo4Rw8CNrppYB34Aar1_PnE_MUPEjIKPNCw?e=EvhtDY
 
 
 
