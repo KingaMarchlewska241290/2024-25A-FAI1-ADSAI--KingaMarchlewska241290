@@ -14,6 +14,7 @@
 
 
 ## Power BI Dashboard
+[SDGIndicatorsDashboard_KingaMarchlewska241290.pdf](https://github.com/user-attachments/files/17599988/SDGIndicatorsDashboard_KingaMarchlewska241290.pdf)
 
 
 
